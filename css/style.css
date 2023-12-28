@@ -1,0 +1,63 @@
+body
+{
+    background-color: #f7ecde;
+}
+
+
+h1
+{
+    border-bottom: 2px dashed black;
+    font-family: 'Pacifico'," cursive";
+    font-size: 3.5rem;
+    
+}
+.content
+{
+    font-family: "Righteous", cursive;
+    font-size: 25px;
+    background-image: linear-gradient(to right, #3ca55c, #b5ac49);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+
+.overly
+{
+    background-color: rgba(0, 0, 0, 0.5);
+    color: black  !important;  
+    
+}
+.item
+{
+    background-color: #fff !important;
+    width: 500px;
+    border-radius: 5px;
+}
+.item h2
+{
+    font-size: 21px;
+    font-family: 'Bree Serif', serif;
+
+
+}
+.item p
+{
+    font-family: 'PT Sans Caption', sans-serif;
+
+
+}
+
+.item .color-item
+{
+    width: 20px;
+    height: 20px;
+    padding: 0px 5px;
+    
+}
+.color-item-green
+{
+    background-color: #3ca55c;
+}
+
+
+
